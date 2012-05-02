@@ -1,7 +1,7 @@
 # Jaime Ivan Tong
 
- * email: kasnar2020@gmail.com 
- * phone: 415-699-2469
+ - email: kasnar2020@gmail.com 
+ - phone: 415-699-2469
 
 ## QUALIFICATIONS
 
