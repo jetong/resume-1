@@ -13,20 +13,20 @@ B.A. Art               June ‘04-06
 University of California, Santa Cruz<br/>
 
 Beginning Perl Class    Sept. ‘07-Nov. ‘07<br/>
-Santa Clara Adult Education==<br/>
+Santa Clara Adult Education<br/>
 
 Symantec Veritas Netbackup 6.0 (Windows)<br/>
 Symantec Corporation, Mountain View March ‘07<br/>
 
-=====WORK EXPERIENCE=====
-July ‘11- Present     Tech Yahoo, Storage Engineer
-Yahoo (YHOO), Sunnyvale, CA
+=====WORK EXPERIENCE=====<br/>
+July ‘11- Present     Tech Yahoo, Storage Engineer<br/>
+Yahoo (YHOO), Sunnyvale, CA<br/>
 
-    Generate and forecast quarterly reports for finance team and storage team on media tape usage, storage consumption, and global inventories.
-    Worked on Rewire Project: Helped track down idle systems that need to be decommissioned or repurposed.  Submit tickets or Update sql database for missing data or inaccuracy.
-    Getting Fit Project: Wrote Perl script to reduce the storage cost in off-sited containers, reuse and destroy media tapes that have expired retention. Helped two team members to forecast cost saving in media tape. Documented the script usage and the calculation which derives the cost saving and forecast.
-    Created Perl script to automate and send out emails to admin on backups that have consecutive fails. Streamline failed backup submitted by admins to rerun backup jobs.
-    Designed a user friendly perl script that generate report for Storage Architecture team. Script enables user to forecast, upgrade, repurpose and calculate the types of disk model, rpm, disk size by filers or by colo region used.
+::Generate and forecast quarterly reports for finance team and storage team on media tape usage, storage consumption, and global inventories.
+::Worked on Rewire Project: Helped track down idle systems that need to be decommissioned or repurposed.  Submit tickets or Update sql database for missing data or inaccuracy.
+::Getting Fit Project: Wrote Perl script to reduce the storage cost in off-sited containers, reuse and destroy media tapes that have expired retention. Helped two team members to forecast cost saving in media tape. Documented the script usage and the calculation which derives the cost saving and forecast.
+::Created Perl script to automate and send out emails to admin on backups that have consecutive fails. Streamline failed backup submitted by admins to rerun backup jobs.
+::Designed a user friendly perl script that generate report for Storage Architecture team. Script enables user to forecast, upgrade, repurpose and calculate the types of disk model, rpm, disk size by filers or by colo region used.
 
 
 Oct ‘10 – July '11        TalentBurst Yahoo, Storage Analyst
