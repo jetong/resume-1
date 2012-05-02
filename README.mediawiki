@@ -2,19 +2,19 @@ JAIME IVAN TONG<br/>
 email: kasnar2020@gmail.com<br/>
 phone: 415.699.2469
 
-QUALIFICATIONS
-2 years of Storage Analyst and Automation Scripting
-3 years of Unix System Administration experience
-4 years IT/ Residential Network techinician UC Santa Cruz
+==QUALIFICATIONS==<br/>
+2 years of Storage Analyst and Automation Scripting<br/>
+3 years of Unix System Administration experience<br/>
+4 years IT/ Residential Network techinician UC Santa Cruz<br/>
 
-EDUCATION
+==EDUCATION==<br/>
 
 B.A. Art               June ‘04-06
 
 University of California, Santa Cruz
 
 Beginning Perl Class    Sept. ‘07-Nov. ‘07
-Santa Clara Adult Education
+Santa Clara Adult Education==
 
 Symantec Veritas Netbackup 6.0 (Windows)
 Symantec Corporation, Mountain View March ‘07
