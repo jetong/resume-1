@@ -19,8 +19,8 @@ Symantec Veritas Netbackup 6.0 (Windows)<br/>
 Symantec Corporation, Mountain View March ‘07<br/>
 
 =====WORK EXPERIENCE=====<br/>
-July ‘11- Present     Tech Yahoo, Storage Engineer<br/>
-Yahoo (YHOO), Sunnyvale, CA<br/>
+'''July ‘11- Present     Tech Yahoo, Storage Engineer'''<br/>
+'''Yahoo (YHOO), Sunnyvale, CA'''<br/>
 
 :*Generate and forecast quarterly reports for finance team and storage team on media tape usage, storage consumption, and global inventories.
 :*Worked on Rewire Project: Helped track down idle systems that need to be decommissioned or repurposed.  Submit tickets or Update sql database for missing data or inaccuracy.
