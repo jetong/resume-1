@@ -57,54 +57,54 @@ Symantec Corporation, Mountain View March ‘07<br/>
 ::*Trained new hires in all aspects of server backup (Netvault, Netbackup). Familiarized trainees with standard procedures, tape purchase, tape off-site, and Window/Oracle SOX compliance backup.
 
 
-Sept ‘05 – Nov '05     UCSC RESNET (Residential Network)
-University of Santa Cruz, CA
+'''Sept ‘05 – Nov '05     UCSC RESNET (Residential Network)'''<br/>
+'''University of Santa Cruz, CA'''<br/>
 
-        Selected as head technical trainer for new hires.
-        Managed three technicians in team specializing in complete network setup (router/nic driver setup/ network wiring).
-        On-site and off-site virus support for UCSC students using PC/ MAC/ laptops.
-        Perform data recovery with external USB hard drive.
-        Presented incoming students virus scanning tools to use and how to troubleshoot their own network connection.
-        Conducted surveys and questions from incoming students to improve on our quality of service.
-        Setup RESNET office for weekend support.
-
-
-Feb. ‘05 – May '05     UCSC CTSS DEPARTMENT (Contract Technical Support Service)
-University of Santa Cruz, CA
-
-        Responsible for maintaining server's tape backup every week. (AIT-2, AIT-3 tapes).
-        Help rack mount servers, manage helpdesk tickets, and assign tickets to 2 other IT technicians.
-        On call troubleshooting, backups, and service repair for faculties on/off campus.
-        Assisted two IT technicians on cabling, software/hardware upgrades of labs on the campus.
-        Monitored servers status using Big Brother.
-        Restock computer supplies with purchase approval.
-        Optimized and duplicated backup copies of software applications for team.
+:*Selected as head technical trainer for new hires.
+:*Managed three technicians in team specializing in complete network setup (router/nic driver setup/ network wiring).
+:*On-site and off-site virus support for UCSC students using PC/ MAC/ laptops.
+:*Perform data recovery with external USB hard drive.
+:*Presented incoming students virus scanning tools to use and how to troubleshoot their own network connection.
+:*Conducted surveys and questions from incoming students to improve on our quality of service.
+:*Setup RESNET office for weekend support.
 
 
-Sept. ‘04 – Jan. '05     UCSC RESNET (Residential Network)
-University of Santa Cruz, CA
+'''Feb. ‘05 – May '05     UCSC CTSS DEPARTMENT (Contract Technical Support Service)'''<br/>
+'''University of Santa Cruz, CA'''<br/>
 
-        Trained for two weeks prior to the start of school.
-        Learned to apply the rules/policies of the University System in troubleshooting student computers.
-        Provided 7 days on-site support for students and step by step walk through on the phone.
-
-
-‘97 – ‘98     Technician Assistant/Sales Representative     COMPUTER 5000
-San Francisco, CA
-
-        Repaired and assembled Desktop PCs..
-        Responsible for restocking computer inventories.
-        Provided on-site customer support, cashiering and built latest computer design for window display.
+:*Responsible for maintaining server's tape backup every week. (AIT-2, AIT-3 tapes).
+:*Help rack mount servers, manage helpdesk tickets, and assign tickets to 2 other IT technicians.
+:*On call troubleshooting, backups, and service repair for faculties on/off campus.
+:*Assisted two IT technicians on cabling, software/hardware upgrades of labs on the campus.
+:* Monitored servers status using Big Brother.
+:*Restock computer supplies with purchase approval.
+:*Optimized and duplicated backup copies of software applications for team.
 
 
-SOFTWARE EXPERIENCE
+'''Sept. ‘04 – Jan. '05     UCSC RESNET (Residential Network)'''<br/>
+'''University of Santa Cruz, CA'''<br/>
+
+:*Trained for two weeks prior to the start of school.
+:*Learned to apply the rules/policies of the University System in troubleshooting student computers.
+:*Provided 7 days on-site support for students and step by step walk through on the phone.
+
+
+'''‘97 – ‘98     Technician Assistant/Sales Representative     COMPUTER 5000'''<br/>
+'''San Francisco, CA'''<br/>
+
+:*Repaired and assembled Desktop PCs..
+:*Responsible for restocking computer inventories.
+:*Provided on-site customer support, cashiering and built latest computer design for window display.
+
+
+=====SOFTWARE EXPERIENCE=====<br/>
 Operating Systems
 Ubuntu 7.04,7.10,9.04,10.04 Server, Desktop
 Sun Solaris 9,10
 RedHat 5, Fedora
 Windows 2000,2003 Server, XP
 
-Application Software
+=====Application Software=====<br/>
 Veritas NetBackup 3.4, 4.5, 5.0, 6.5 (Windows and Unix)
 Veritas Netbackup Vault Extension
 Bakbone NetVault 6, 7
