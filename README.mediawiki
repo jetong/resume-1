@@ -44,14 +44,14 @@ Symantec Corporation, Mountain View March ‘07<br/>
 :*Primary administrator for all global engineering backup and Perl script automation to maintain an accurate database of tapes store on-site and off-site
 ::*Designed, proposed, site planned and managed the deployment of a SL3000 library (3,000 tapes LT0-4) in Marvell Headquarter. Worked closely with Sun field engineer to assemble the library in the data center. Setup 2 Cisco SAN switch for the SL3000 to backup multiple EMC NSX, Netapp and Agami filers. Installed, configured, and on-going support for Veritas Netbackup 6.5.x. Completed the project in 4 weeks and provided a robust disaster recovery system for the catalog backup.
 ::*Maintain multiple tape libraries ranging from SL500, L700e, SL3000 to backup more than 80TB/ week.
-:::**Upgraded library's expansions and firmware for tape drives (AIT-2, AIT-3, LT0-3, LT0-4). Successfully migrated job policies and catalog from one library server to another. Help remote-sites (Arizona, Shanghai, Germany) on building a strong library infrastructure with various Veritas Netbackup 6.x platforms to suite their needs.
-:::**Introduced remote-sites the importance of job retention policies, and configuring a multi-pathing for all hosts to prevent single points of failures as much as possible.
-:::**Assisted remote-sites with libraries retirements and proper documentations to gracefully shutdown libraries and bring up libraries after a data center relocation.
+:::*Upgraded library's expansions and firmware for tape drives (AIT-2, AIT-3, LT0-3, LT0-4). Successfully migrated job policies and catalog from one library server to another. Help remote-sites (Arizona, Shanghai, Germany) on building a strong library infrastructure with various Veritas Netbackup 6.x platforms to suite their needs.
+:::*Introduced remote-sites the importance of job retention policies, and configuring a multi-pathing for all hosts to prevent single points of failures as much as possible.
+:::*Assisted remote-sites with libraries retirements and proper documentations to gracefully shutdown libraries and bring up libraries after a data center relocation.
 ::*Wrote Perl scripts and designed web interfaces to automate many tasks:
-:::**created a monitoring tool, to track data volumes and usage to determine how often it needs to be backed up to reduce unnecessary expenditure in media tapes.
-:::**helped to develop a barcode scanning script with a team member to improve the efficiency of large quantity of tape off-site and reduce the time spent to check for errors.
-:::**utilized data collected into MySQL database to graph out diagrams of weekly/ monthly data growth which enable users to forecast and plan ahead for capacity planning.
-:::**developed a disaster recovery script to pin point the exact media barcode needed to recover the lost data.
+:::*created a monitoring tool, to track data volumes and usage to determine how often it needs to be backed up to reduce unnecessary expenditure in media tapes.
+:::*helped to develop a barcode scanning script with a team member to improve the efficiency of large quantity of tape off-site and reduce the time spent to check for errors.
+:::*utilized data collected into MySQL database to graph out diagrams of weekly/ monthly data growth which enable users to forecast and plan ahead for capacity planning.
+:::*developed a disaster recovery script to pin point the exact media barcode needed to recover the lost data.
 ::*Collaborated with a team member to re-negotiated media tape prices each quarter saving $300k for the past 3 years. Saved the company over $150k in a 6 month period, by implementing a new recycling retention policy and reducing the amount of tapes needed to be stored off-site.
 ::*Assisted team member to resolved critical SOX compliance restores and successfully restored all the data before the deadline. Was chosen to manage all crucial restores in Marvell headquarter and in remote-sites (Arizona, India).
 ::*Trained new hires in all aspects of server backup (Netvault, Netbackup). Familiarized trainees with standard procedures, tape purchase, tape off-site, and Window/Oracle SOX compliance backup.
