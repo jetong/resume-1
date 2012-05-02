@@ -1,13 +1,13 @@
 # Jaime Ivan Tong
 
- email: kasnar2020@gmail.com 
- phone: 415-699-2469
+ * email: kasnar2020@gmail.com 
+ * phone: 415-699-2469
 
 ## QUALIFICATIONS
 
- 2 years of Storage Analyst and Automation Scripting
- 3 years of Unix System Administration experience
- 4 years IT/Residential Network techinician UC Santa Cruz
+ * 2 years of Storage Analyst and Automation Scripting
+ * 3 years of Unix System Administration experience
+ * 4 years IT/Residential Network techinician UC Santa Cruz
 
 ## EDUCATION
 
