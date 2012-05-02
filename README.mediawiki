@@ -98,18 +98,18 @@ Symantec Corporation, Mountain View March ‘07<br/>
 
 
 =====SOFTWARE EXPERIENCE=====<br/>
-Operating Systems
-Ubuntu 7.04,7.10,9.04,10.04 Server, Desktop
-Sun Solaris 9,10
-RedHat 5, Fedora
-Windows 2000,2003 Server, XP
+Operating Systems<br/>
+Ubuntu 7.04,7.10,9.04,10.04 Server, Desktop<br/>
+Sun Solaris 9,10<br/>
+RedHat 5, Fedora<br/>
+Windows 2000,2003 Server, XP<br/>
 
 =====Application Software=====<br/>
-Veritas NetBackup 3.4, 4.5, 5.0, 6.5 (Windows and Unix)
-Veritas Netbackup Vault Extension
-Bakbone NetVault 6, 7
-Veritas BackupExec 5
-MySQL
-Joomla, Uwiki,Plone
-Perl Scripting
-HTML
+Veritas NetBackup 3.4, 4.5, 5.0, 6.5 (Windows and Unix)<br/>
+Veritas Netbackup Vault Extension<br/>
+Bakbone NetVault 6, 7<br/>
+Veritas BackupExec 5<br/>
+MySQL<br/>
+Joomla, Uwiki,Plone<br/>
+Perl Scripting<br/>
+HTML<br/>
