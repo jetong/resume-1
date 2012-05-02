@@ -22,28 +22,28 @@ Symantec Corporation, Mountain View March ‘07<br/>
 July ‘11- Present     Tech Yahoo, Storage Engineer<br/>
 Yahoo (YHOO), Sunnyvale, CA<br/>
 
-::*Generate and forecast quarterly reports for finance team and storage team on media tape usage, storage consumption, and global inventories.
-::*Worked on Rewire Project: Helped track down idle systems that need to be decommissioned or repurposed.  Submit tickets or Update sql database for missing data or inaccuracy.
-::*Getting Fit Project: Wrote Perl script to reduce the storage cost in off-sited containers, reuse and destroy media tapes that have expired retention. Helped two team members to forecast cost saving in media tape. Documented the script usage and the calculation which derives the cost saving and forecast.
-::*Created Perl script to automate and send out emails to admin on backups that have consecutive fails. Streamline failed backup submitted by admins to rerun backup jobs.
-::*Designed a user friendly perl script that generate report for Storage Architecture team. Script enables user to forecast, upgrade, repurpose and calculate the types of disk model, rpm, disk size by filers or by colo region used.
+:*Generate and forecast quarterly reports for finance team and storage team on media tape usage, storage consumption, and global inventories.
+:*Worked on Rewire Project: Helped track down idle systems that need to be decommissioned or repurposed.  Submit tickets or Update sql database for missing data or inaccuracy.
+:*Getting Fit Project: Wrote Perl script to reduce the storage cost in off-sited containers, reuse and destroy media tapes that have expired retention. Helped two team members to forecast cost saving in media tape. Documented the script usage and the calculation which derives the cost saving and forecast.
+:*Created Perl script to automate and send out emails to admin on backups that have consecutive fails. Streamline failed backup submitted by admins to rerun backup jobs.
+:*Designed a user friendly perl script that generate report for Storage Architecture team. Script enables user to forecast, upgrade, repurpose and calculate the types of disk model, rpm, disk size by filers or by colo region used.
 
 
-Oct ‘10 – July '11        TalentBurst Yahoo, Storage Analyst
-Yahoo (YHOO), Sunnyvale, CA
+Oct ‘10 – July '11        TalentBurst Yahoo, Storage Analyst<br/>
+Yahoo (YHOO), Sunnyvale, CA<br/>
 
-    Create and design Perl scripts to clean up global database
-    Work on tickets submitted by finance team or storage team for forecasting or track down servers to decommission.
-    Verify global database on filer status by writing a Perl Ping script.
-    Submit tickets or update sql database on bugs found or inaccuracy of internal reporting tools.
+:*Create and design Perl scripts to clean up global database
+:*Work on tickets submitted by finance team or storage team for forecasting or track down servers to decommission.
+:*Verify global database on filer status by writing a Perl Ping script.
+:*Submit tickets or update sql database on bugs found or inaccuracy of internal reporting tools.
 
 
-Jan ‘07 – Feb '10        UNIX System Administrator/Scripting Automation,  IT Department
-Marvell Semiconductor Inc. (MRVL), Sunnyvale, CA
+Jan ‘07 – Feb '10        UNIX System Administrator/Scripting Automation,  IT Department<br/>
+Marvell Semiconductor Inc. (MRVL), Sunnyvale, CA<br/>
 
-    Primary administrator for all global engineering backup and Perl script automation to maintain an accurate database of tapes store on-site and off-site
-        Designed, proposed, site planned and managed the deployment of a SL3000 library (3,000 tapes LT0-4) in Marvell Headquarter. Worked closely with Sun field engineer to assemble the library in the data center. Setup 2 Cisco SAN switch for the SL3000 to backup multiple EMC NSX, Netapp and Agami filers. Installed, configured, and on-going support for Veritas Netbackup 6.5.x. Completed the project in 4 weeks and provided a robust disaster recovery system for the catalog backup.
-        Maintain multiple tape libraries ranging from SL500, L700e, SL3000 to backup more than 80TB/ week.
+:*Primary administrator for all global engineering backup and Perl script automation to maintain an accurate database of tapes store on-site and off-site
+::**Designed, proposed, site planned and managed the deployment of a SL3000 library (3,000 tapes LT0-4) in Marvell Headquarter. Worked closely with Sun field engineer to assemble the library in the data center. Setup 2 Cisco SAN switch for the SL3000 to backup multiple EMC NSX, Netapp and Agami filers. Installed, configured, and on-going support for Veritas Netbackup 6.5.x. Completed the project in 4 weeks and provided a robust disaster recovery system for the catalog backup.
+::**Maintain multiple tape libraries ranging from SL500, L700e, SL3000 to backup more than 80TB/ week.
             Upgraded library's expansions and firmware for tape drives (AIT-2, AIT-3, LT0-3, LT0-4). Successfully migrated job policies and catalog from one library server to another. Help remote-sites (Arizona, Shanghai, Germany) on building a strong library infrastructure with various Veritas Netbackup 6.x platforms to suite their needs.
             Introduced remote-sites the importance of job retention policies, and configuring a multi-pathing for all hosts to prevent single points of failures as much as possible.
             Assisted remote-sites with libraries retirements and proper documentations to gracefully shutdown libraries and bring up libraries after a data center relocation.
